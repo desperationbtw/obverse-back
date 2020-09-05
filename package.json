@@ -1,0 +1,21 @@
+{
+  "name": "obverse-backend_v2",
+  "version": "1.0.0",
+  "description": "refactored",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "desperation.btw@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cookie": "^0.4.1",
+    "crypto": "^1.0.1",
+    "dateformat": "^3.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "ws": "^7.3.1"
+  }
+}
