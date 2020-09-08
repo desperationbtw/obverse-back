@@ -1,6 +1,7 @@
 const axios = require("axios"),
   WebSocket = require("ws"),
-   errorHandler = require("../../errorHandler");
+  config = require("../../config"),
+  errorHandler = require("../../errorHandler");
 
 var client, ws;
 
@@ -49,7 +50,7 @@ var idFromBase64 = (data) =>
 var convertOdd = (value) => Number(eval(value) + 1).toFixed(2);
 
 var parseTeams = (name) =>
-  name.split(/(\b - \b)|(\b @ \b)|(\b & \b)/gm).filter((i) => {
+  name.split(/(\b - \b)|(\b @ \b)/gm).filter((i) => {
     if (i != null && i != " - " && i != " @ " && i != " & ") return i;
   });
 
@@ -102,10 +103,10 @@ module.exports = class {
     this.updatedEvents = [];
   }
 
-  async worker() {
+  async worker(callback) {
     setClient(false);
     setSocket(false);
-    await this.wsWorker();
+    await this.wsWorker(callback);
 
     setInterval(async () => {
       let tournaments = await this.getTournaments();
@@ -114,13 +115,11 @@ module.exports = class {
       this.events = this.updatedEvents;
 
       start.forEach((item) => this.eventSubscribe(item));
-      end.forEach((item) =>
-        this.io.sockets.in("default").emit("SportsBetClosed", item)
-      );
+      end.forEach((item) => callback("SportsBet", "Close", item));
     }, 60000);
   }
 
-  async wsWorker() {
+  async wsWorker(callback) {
     ws.on("open", function open() {
       console.log("SOCKET: connected");
       ws.send(
@@ -132,7 +131,7 @@ module.exports = class {
     });
 
     ws.on("message", (data) => {
-      this.messageHandler(data);
+      this.messageHandler(data, callback);
     });
 
     ws.on("close", (data) => {
@@ -145,7 +144,7 @@ module.exports = class {
     });
   }
 
-  async messageHandler(data) {
+  async messageHandler(data, callback) {
     let message = JSON.parse(data);
     if (message.eventName == "PING") {
       var resp = {
@@ -175,9 +174,8 @@ module.exports = class {
         let socketRes = (this.events[
           this.events.indexOf(arrayEvent)
         ] = eventFormat(resultEvent));
-        this.io.sockets
-          .in("default")
-          .emit("SportsBetEvent", JSON.stringify(socketRes));
+        if (config.ACCEPTED_SPORTS.includes(socketRes.SP))
+          callback("SportsBet", "Event", socketRes);
       }
     }
   }

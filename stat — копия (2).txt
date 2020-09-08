@@ -1,0 +1,897 @@
+		SportsBet:
+
+Correct Score	COUNT: 28
+Winner	COUNT: 28
+Odd/Even Games	COUNT: 20
+2nd Set - Winner	COUNT: 20
+Total Games	COUNT: 20
+Total Sets	COUNT: 13
+1st Set - Will There Be a Tiebreak	COUNT: 13
+1st Set - Game Handicap	COUNT: 13
+1st Set - Total Games	COUNT: 13
+1st Set - Winner	COUNT: 13
+Will There Be a Tiebreak	COUNT: 12
+Game Handicap	COUNT: 12
+2nd Set - Will There Be a Tiebreak	COUNT: 7
+2nd Set - Game Handicap	COUNT: 7
+2nd Set - Total Games	COUNT: 7
+TEAM1 Total Games	COUNT: 6
+TEAM0 To Win a Set	COUNT: 6
+Exact Games	COUNT: 6
+How Many Games Will Be Decided By Extra Points	COUNT: 6
+Point Handicap	COUNT: 6
+Total Points	COUNT: 6
+1x2	COUNT: 6
+TEAM1 Total	COUNT: 5
+TEAM0 Total	COUNT: 5
+Draw No Bet	COUNT: 5
+Asian Total	COUNT: 5
+TEAM1 To Win	COUNT: 4
+TEAM0 To Win	COUNT: 4
+Double Chance	COUNT: 4
+Odd/Even	COUNT: 4
+TEAM1 To Win a Set	COUNT: 4
+Exact Sets	COUNT: 4
+1st Set - Odd/Even Games	COUNT: 4
+1st Set - Correct Score	COUNT: 4
+1st Game - Winner	COUNT: 3
+TEAM1 Exact Goals	COUNT: 3
+Exact Goals	COUNT: 3
+3rd Game - Winner	COUNT: 3
+2nd Set - Odd/Even Games	COUNT: 2
+2nd Set - Correct Score	COUNT: 2
+2nd Set Game 2 - Winner	COUNT: 2
+Both Teams To Score	COUNT: 2
+1st Game - Odd/Even	COUNT: 2
+1st Game - Point Handicap	COUNT: 2
+1st Game - 20th Point	COUNT: 2
+1st Game - Total Points	COUNT: 2
+TEAM0 Exact Goals	COUNT: 2
+1st Half - TEAM1 Total	COUNT: 2
+1st Half - TEAM0 Total	COUNT: 2
+1st Half -  Asian Total	COUNT: 2
+3rd Game - Race to 9 Points	COUNT: 2
+3rd Game - Race to 7 Points	COUNT: 2
+3rd Game - Odd/Even	COUNT: 2
+3rd Game - Point Handicap	COUNT: 2
+3rd Game - Total Points	COUNT: 2
+Handicap 4:0	COUNT: 2
+1st Set Game 5 - to Deuce	COUNT: 2
+1st Set Game 5 - Winner	COUNT: 2
+1st Set Game 4 - Winner	COUNT: 2
+2nd Set Game 2 - to Deuce	COUNT: 1
+2nd Set Game 1 - 2nd Point	COUNT: 1
+2nd Set Game 1 - Winner	COUNT: 1
+TEAM0 Clean Sheet	COUNT: 1
+Handicap 0:7	COUNT: 1
+Handicap 0:6	COUNT: 1
+Handicap 0:5	COUNT: 1
+4th Goal	COUNT: 1
+Asian Handicap 3-0	COUNT: 1
+1st Set - Total Legs	COUNT: 1
+1st Set - Leg Handicap	COUNT: 1
+1st Set Leg 8 - Winner	COUNT: 1
+1st Set Game 3 - to Deuce	COUNT: 1
+1st Set Game 2 - 5th Point	COUNT: 1
+1st Set Game 3 - Winner	COUNT: 1
+1st Set Game 2 - Winner	COUNT: 1
+1st Game - 15th Point	COUNT: 1
+1st Set Game 4 - 3rd Point	COUNT: 1
+3rd Game - Race to 5 Points	COUNT: 1
+3rd Game - Race to 3 Points	COUNT: 1
+3rd Game - 5th Point	COUNT: 1
+2nd Set Game 3 - to Deuce	COUNT: 1
+2nd Set Game 3 - 1st Point	COUNT: 1
+2nd Set Game 3 - Winner	COUNT: 1
+TEAM1 Clean Sheet	COUNT: 1
+Handicap 3:0	COUNT: 1
+Handicap 2:0	COUNT: 1
+1st Half - Both Teams to Score	COUNT: 1
+Highest Scoring Half	COUNT: 1
+Halftime/Fulltime	COUNT: 1
+1st Half - 1x2	COUNT: 1
+2nd Goal	COUNT: 1
+1st Half - Asian Handicap	COUNT: 1
+Asian Handicap 0-1	COUNT: 1
+1st Game - Race to 9 Points	COUNT: 1
+Handicap 1:0	COUNT: 1
+Handicap 0:2	COUNT: 1
+Handicap 0:1	COUNT: 1
+3rd Goal	COUNT: 1
+Asian Handicap 1-1	COUNT: 1
+3rd Game - 10th Point	COUNT: 1
+1st Set Game 10 - 3rd Point	COUNT: 1
+1st Set Game 10 - Winner	COUNT: 1
+5th Goal	COUNT: 1
+Asian Handicap 1-3	COUNT: 1
+1st Set Game 4 - 2nd Point	COUNT: 1
+Map Handicap	COUNT: 1
+Total Maps	COUNT: 1
+2nd Map - Winner	COUNT: 1
+2nd Map - 1st Baron	COUNT: 1
+2nd Map - 1st Inhibitor	COUNT: 1
+Correct Score (in maps)	COUNT: 1
+Asian Handicap 25-21	COUNT: 1
+3rd Quarter - 1x2	COUNT: 1
+3rd Quarter - Total	COUNT: 1
+3rd Quarter - Handicap	COUNT: 1
+Which Team Wins the Rest of the Match	COUNT: 1
+Winning margin	COUNT: 1
+1x2 & Total	COUNT: 1
+Winner (incl. super over)	COUNT: 1
+2nd innings - Abell, Tom total	COUNT: 1
+2nd innings - Lammonby, Tom total	COUNT: 1
+2nd Innings - Abell, Tom to Score 100	COUNT: 1
+2nd Innings - Abell, Tom to Score 25	COUNT: 1
+2nd Innings - Abell, Tom to Score 50	COUNT: 1
+2nd Innings - Abell, Tom to Score 75	COUNT: 1
+2nd Innings - Lammonby, Tom to Score 100	COUNT: 1
+2nd Innings - Lammonby, Tom to Score 25	COUNT: 1
+2nd Innings - Lammonby, Tom to Score 50	COUNT: 1
+2nd Innings - Lammonby, Tom to Score 75	COUNT: 1
+2nd Innings Over 13 - TEAM1 Total	COUNT: 1
+2nd Innings Over 14 - TEAM1 Total	COUNT: 1
+2nd Innings Overs 0 to 15 - TEAM1 Total	COUNT: 1
+2nd Innings Overs 0 to 20 - TEAM1 Total	COUNT: 1
+2nd Innings Overs 0 to 25 - TEAM1 Total	COUNT: 1
+2nd Innings - TEAM1 Total	COUNT: 1
+
+		Bet365:
+
+3-Way Handicap	COUNT: 1968
+Match Correct Score	COUNT: 1564
+Game Lines	COUNT: 1389
+To Win	COUNT: 1168
+Team Totals	COUNT: 1123
+Alternative Run Line	COUNT: 1021
+Alternative Game Total	COUNT: 1021
+Money Line and Total	COUNT: 1021
+Alternative Money Line and Total 	COUNT: 1021
+Run Line and Total	COUNT: 1021
+5 Innings Lines	COUNT: 1021
+Alternative 5 Innings Run Lines	COUNT: 1021
+Alternative 5 Innings Totals	COUNT: 1021
+7 Innings Lines	COUNT: 1021
+Alternative 7 Innings Totals	COUNT: 1021
+Both Teams to Score 'X' Runs	COUNT: 1021
+Race to (Runs)	COUNT: 1021
+Lead After (Innings)	COUNT: 1021
+Winning Margin	COUNT: 1021
+Total Runs 3-Way	COUNT: 1021
+To Go to Extra Innings	COUNT: 1021
+Odd/Even	COUNT: 1012
+Match Goals	COUNT: 978
+Set 2 Winner	COUNT: 945
+Next Two Games - Either Game to Deuce	COUNT: 912
+Next Two Games - Winner	COUNT: 912
+Match Lines	COUNT: 903
+Draw No Bet	COUNT: 881
+Next Break of Serve	COUNT: 874
+Fulltime Result	COUNT: 854
+3 Innings Lines	COUNT: 851
+Alternative 3 Innings Totals	COUNT: 851
+Final Score	COUNT: 830
+Goals Odd/Even	COUNT: 830
+Double Chance	COUNT: 821
+Point Betting	COUNT: 766
+Go The Distance?	COUNT: 765
+Total Tie Breaks in Match	COUNT: 750
+Set 1 Winner	COUNT: 748
+Set Betting	COUNT: 704
+2nd Inning Lines	COUNT: 702
+2nd Inning Runs	COUNT: 702
+Total Sets	COUNT: 665
+Last Team to Score	COUNT: 663
+Match Handicap	COUNT: 656
+Total Games in Match	COUNT: 617
+Player Games Won	COUNT: 617
+Match Result and Total Games	COUNT: 610
+A Run Scored - TEAM1 Inning 1	COUNT: 608
+Set 1 Score	COUNT: 574
+Set 1 Correct Score Group	COUNT: 574
+Alternative Match Goals	COUNT: 572
+Match Corners	COUNT: 572
+2-Way Corners	COUNT: 572
+Asian Corners	COUNT: 572
+Corners	COUNT: 572
+TEAM0 Goals	COUNT: 572
+Corners Race	COUNT: 553
+Set 1 Race to	COUNT: 545
+Team to Score in 2nd Half	COUNT: 506
+To Win 2nd Half	COUNT: 499
+Total Games in Set 1	COUNT: 488
+Setcast	COUNT: 488
+Double Result	COUNT: 488
+TEAM0 To	COUNT: 488
+TEAM1 To	COUNT: 488
+Set 1 to Break Serve	COUNT: 480
+Set 1 Score after 6 Games	COUNT: 480
+Set 1 Lead after	COUNT: 457
+Set 1 Correct Score Any Player	COUNT: 444
+1st Goal	COUNT: 438
+Set 1 Handicap	COUNT: 437
+Both Teams to Score in 2nd Half	COUNT: 429
+Match Time Result	COUNT: 429
+TEAM0 Exact Goals	COUNT: 429
+TEAM1 Exact Goals	COUNT: 429
+TEAM1 Goals	COUNT: 429
+1st Inning Lines	COUNT: 426
+1st Inning Runs	COUNT: 412
+A Run Scored - TEAM0 Inning 1	COUNT: 412
+Asian Handicap (0-0)	COUNT: 403
+Goal Line (0-0)	COUNT: 403
+3rd Inning Lines	COUNT: 394
+3rd Inning Runs	COUNT: 394
+Match Totals	COUNT: 389
+Half Time Result	COUNT: 377
+First Half Goals	COUNT: 377
+Half Time/Full Time	COUNT: 377
+Half Time Correct Score	COUNT: 377
+Set 1 Score after 4 Games	COUNT: 349
+3rd Goal	COUNT: 328
+Dismissal Method	COUNT: 322
+2nd Half Corners	COUNT: 310
+Correct Score After 3 Games	COUNT: 290
+1st Half Corners	COUNT: 286
+1st Half Asian Corners	COUNT: 286
+1st Half - Handicap	COUNT: 286
+1st Half Asian Handicap (0-0)	COUNT: 284
+1st Half Goal Line (0-0)	COUNT: 284
+Result / Both Teams To Score	COUNT: 283
+Set 2 to Break Serve	COUNT: 280
+Match Total Games Odd/Even	COUNT: 276
+Both Teams to Score	COUNT: 273
+Game 3 Lines	COUNT: 246
+Asian Handicap (1-1)	COUNT: 244
+Goal Line (1-1)	COUNT: 244
+A Run Scored - TEAM0 Inning 3	COUNT: 241
+Game 2 Lines	COUNT: 236
+Set 2 Race to	COUNT: 232
+A Run Scored - TEAM1 Inning 2	COUNT: 224
+Both Teams to Score in 1st Half	COUNT: 220
+Team Clean Sheet	COUNT: 220
+Team to Score in Both Halves	COUNT: 220
+Time of 1st Goal	COUNT: 220
+Time of 1st Goal - TEAM0	COUNT: 220
+Time of 1st Goal - TEAM1	COUNT: 220
+Game 1 Lines	COUNT: 214
+Set 2 Handicap	COUNT: 211
+5th Game Winner	COUNT: 210
+5th Game to Deuce	COUNT: 209
+5th Game Score	COUNT: 209
+Time of 3rd Goal	COUNT: 209
+Time of 2nd Goal - TEAM0	COUNT: 209
+Time of 2nd Goal - TEAM1	COUNT: 209
+Set 2 Score	COUNT: 208
+Set 2 Correct Score Group	COUNT: 208
+Set 2 Score after 6 Games	COUNT: 206
+Game 3 Correct Score	COUNT: 205
+Game 3 Extra Points	COUNT: 202
+Game 3 Winning Margin	COUNT: 201
+4th Game Winner	COUNT: 198
+Total Games in Set 2	COUNT: 194
+Set 2 Correct Score Any Player	COUNT: 193
+Game 2 Correct Score	COUNT: 186
+Game 1 Winning Margin	COUNT: 185
+Game 2 Extra Points	COUNT: 185
+Game 2 Winning Margin	COUNT: 185
+Game 1 Extra Points	COUNT: 184
+Game 1 Correct Score	COUNT: 184
+4th Game to Deuce	COUNT: 181
+4th Game Score	COUNT: 181
+undefined	COUNT: 180
+3rd Game Winner	COUNT: 171
+Set 2 Lead after	COUNT: 170
+Set 2 Score after 4 Games	COUNT: 170
+Game 4 Lines	COUNT: 169
+Set 3 Winner	COUNT: 162
+3rd Game to Deuce	COUNT: 155
+3rd Game Score	COUNT: 155
+Game 4 Extra Points	COUNT: 155
+Game 4 Winning Margin	COUNT: 155
+Game 4 Correct Score	COUNT: 154
+Point Betting - 4th Game	COUNT: 147
+6th Game Winner	COUNT: 146
+Correct Score After 2 Games	COUNT: 144
+2nd Goal	COUNT: 137
+5th Game Total Points	COUNT: 136
+Game 3 Race to	COUNT: 132
+10th Game Winner	COUNT: 131
+1st Point Winner 5th Game	COUNT: 129
+Correct Set Score	COUNT: 128
+4th Goal	COUNT: 126
+5th Game Score after 2 points	COUNT: 126
+5th Game Score after 3 points	COUNT: 126
+5th Game Score after 4 points	COUNT: 126
+5th Game Server to Win to 0/15	COUNT: 126
+5th Game Server to Win to 0/15/30	COUNT: 126
+5th Game to Have Break Point	COUNT: 126
+10th Game to Deuce	COUNT: 125
+10th Game Score	COUNT: 125
+6th Game to Deuce	COUNT: 122
+6th Game Score	COUNT: 122
+TEAM1 20 Overs Runs	COUNT: 122
+1st Point Winner 3rd Game	COUNT: 120
+3rd Game Total Points	COUNT: 120
+11th Game Winner	COUNT: 118
+Tie Break in Match?	COUNT: 117
+Game 2 Race to	COUNT: 115
+11th Game to Deuce	COUNT: 112
+11th Game Score	COUNT: 112
+9th Game Winner	COUNT: 110
+Next 10 Minutes (30:00 - 39:59)	COUNT: 110
+8th Game Winner	COUNT: 106
+7th Game Winner	COUNT: 105
+3rd Game Score after 2 points	COUNT: 104
+3rd Game Score after 3 points	COUNT: 104
+3rd Game Score after 4 points	COUNT: 104
+3rd Game Server to Win to 0/15	COUNT: 104
+3rd Game Server to Win to 0/15/30	COUNT: 104
+3rd Game to Have Break Point	COUNT: 104
+Game 4 Race to	COUNT: 104
+Game 1 Race to	COUNT: 104
+12th Game Winner	COUNT: 104
+12th Game to Deuce	COUNT: 104
+12th Game Score	COUNT: 104
+Score After 3 Sets	COUNT: 102
+7th Game to Deuce	COUNT: 98
+7th Game Score	COUNT: 98
+8th Game to Deuce	COUNT: 98
+8th Game Score	COUNT: 98
+2nd Game Winner	COUNT: 97
+Point Betting - 2nd Game	COUNT: 96
+9th Game to Deuce	COUNT: 92
+9th Game Score	COUNT: 92
+Set 1 Lines	COUNT: 91
+Set 1 Extra Points	COUNT: 90
+Match Winner 2-Way	COUNT: 90
+Point Betting - 5th Game	COUNT: 89
+Runs at Fall of 3rd Wicket	COUNT: 88
+Next 10 Minutes (00:00 - 09:59)	COUNT: 84
+6th Game Total Points	COUNT: 84
+Score After 2 Sets	COUNT: 83
+13th Game Winner	COUNT: 83
+Set 1 Winning Margin	COUNT: 82
+Set 1 Correct Score	COUNT: 82
+Set 1 Point Betting	COUNT: 80
+1st Point Winner 10th Game	COUNT: 79
+10th Game Total Points	COUNT: 79
+13th Game to Deuce	COUNT: 78
+13th Game Score	COUNT: 78
+Point Betting - 3rd Game	COUNT: 78
+Asian Handicap (3-0)	COUNT: 77
+Goal Line (3-0)	COUNT: 77
+Next 10 Minutes (50:00 - 59:59)	COUNT: 77
+4th Game Total Points	COUNT: 77
+1st Point Winner 4th Game	COUNT: 76
+Game 2 Lead After	COUNT: 75
+6th Game Score after 2 points	COUNT: 74
+6th Game Score after 3 points	COUNT: 74
+6th Game Score after 4 points	COUNT: 74
+6th Game Server to Win to 0/15	COUNT: 74
+6th Game Server to Win to 0/15/30	COUNT: 74
+6th Game to Have Break Point	COUNT: 74
+Point Betting - 6th Game	COUNT: 72
+4th Game Score after 2 points	COUNT: 72
+4th Game Score after 3 points	COUNT: 72
+4th Game Score after 4 points	COUNT: 72
+4th Game Server to Win to 0/15	COUNT: 72
+4th Game Server to Win to 0/15/30	COUNT: 72
+4th Game to Have Break Point	COUNT: 72
+6th Goal	COUNT: 72
+1st Point Winner 6th Game	COUNT: 70
+Next 10 Minutes (10:00 - 19:59)	COUNT: 70
+Point Betting - 9th Game	COUNT: 70
+Game 3 Lead After	COUNT: 70
+Point Betting - 8th Game	COUNT: 70
+1st Point Winner 7th Game	COUNT: 69
+7th Game Total Points	COUNT: 69
+Game 4 Lead After	COUNT: 69
+TEAM1 1st Inns Runs	COUNT: 67
+TB Abell  Innings Runs	COUNT: 67
+T Lammonby  Innings Runs	COUNT: 67
+Runs at Fall of 2nd Wicket	COUNT: 67
+13th Over, TEAM1 2nd Inns - Runs	COUNT: 67
+13th Over, TEAM1 2nd Inns - Wicket	COUNT: 67
+8th Game Total Points	COUNT: 66
+Point Betting - 11th Game	COUNT: 66
+Asian Handicap (5-0)	COUNT: 66
+Goal Line (5-0)	COUNT: 66
+1st Half Asian Handicap (1-1)	COUNT: 66
+1st Half Goal Line (1-1)	COUNT: 66
+7th Game Score after 2 points	COUNT: 65
+7th Game Score after 3 points	COUNT: 65
+7th Game Score after 4 points	COUNT: 65
+7th Game Server to Win to 0/15	COUNT: 65
+7th Game Server to Win to 0/15/30	COUNT: 65
+7th Game to Have Break Point	COUNT: 65
+12th Game Total Points	COUNT: 65
+Point Betting - 10th Game	COUNT: 65
+11th Game Total Points	COUNT: 63
+14th Game Winner	COUNT: 60
+14th Game to Deuce	COUNT: 60
+14th Game Score	COUNT: 60
+Set 1 Lead After	COUNT: 59
+1st Point Winner 11th Game	COUNT: 59
+10th Game Score after 2 points	COUNT: 58
+10th Game Score after 3 points	COUNT: 58
+10th Game Score after 4 points	COUNT: 58
+10th Game Server to Win to 0/15	COUNT: 58
+10th Game Server to Win to 0/15/30	COUNT: 58
+10th Game to Have Break Point	COUNT: 58
+Game 1 Lead After	COUNT: 58
+12th Game Score after 2 points	COUNT: 58
+12th Game Score after 3 points	COUNT: 58
+12th Game Score after 4 points	COUNT: 58
+12th Game Server to Win to 0/15	COUNT: 58
+12th Game Server to Win to 0/15/30	COUNT: 58
+12th Game to Have Break Point	COUNT: 58
+Asian Handicap (1-0)	COUNT: 58
+Goal Line (1-0)	COUNT: 58
+11th Game Score after 2 points	COUNT: 57
+11th Game Score after 3 points	COUNT: 57
+11th Game Score after 4 points	COUNT: 57
+11th Game Server to Win to 0/15	COUNT: 57
+11th Game Server to Win to 0/15/30	COUNT: 57
+11th Game to Have Break Point	COUNT: 57
+Next 10 Minutes (70:00 - 79:59)	COUNT: 57
+8th Game Score after 2 points	COUNT: 53
+8th Game Score after 3 points	COUNT: 53
+8th Game Score after 4 points	COUNT: 53
+8th Game Server to Win to 0/15	COUNT: 53
+8th Game Server to Win to 0/15/30	COUNT: 53
+8th Game to Have Break Point	COUNT: 53
+1st Point Winner 8th Game	COUNT: 53
+Point Betting - 12th Game	COUNT: 49
+1st Point Winner 12th Game	COUNT: 47
+13th Game Total Points	COUNT: 46
+1st Point Winner 9th Game	COUNT: 44
+9th Game Total Points	COUNT: 44
+Point Betting - 13th Game	COUNT: 44
+T Loten  Innings Runs	COUNT: 44
+W Fraine  Innings Runs	COUNT: 44
+14th Over, TEAM0 1st Inns - Runs	COUNT: 44
+14th Over, TEAM0 1st Inns - Wicket	COUNT: 44
+BT Foakes  Innings Runs	COUNT: 44
+HM Amla  Innings Runs	COUNT: 44
+Runs at Fall of 5th Wicket	COUNT: 44
+45th Over, TEAM0 1st Inns - Runs	COUNT: 44
+45th Over, TEAM0 1st Inns - Wicket	COUNT: 44
+J Clarke  Innings Runs	COUNT: 44
+BM Duckett  Innings Runs	COUNT: 44
+64th Over, TEAM0 1st Inns - Runs	COUNT: 44
+64th Over, TEAM0 1st Inns - Wicket	COUNT: 44
+41st Over, TEAM1 2nd Inns - Runs	COUNT: 44
+41st Over, TEAM1 2nd Inns - Wicket	COUNT: 44
+Point Betting - 7th Game	COUNT: 43
+Set 2 Winning Margin	COUNT: 43
+Set 2 Correct Score	COUNT: 43
+Point Betting - 1st Game	COUNT: 42
+1st Game Winner	COUNT: 42
+1st Game to Deuce	COUNT: 42
+1st Game Score	COUNT: 42
+6th Over, TEAM1 - Runs	COUNT: 42
+6th Over, TEAM1 - Runs Odd/Even	COUNT: 42
+6th Over, TEAM1 - Wicket	COUNT: 42
+1st Game Score after 2 points	COUNT: 41
+1st Game Score after 3 points	COUNT: 41
+1st Game Score after 4 points	COUNT: 41
+1st Game Server to Win to 0/15	COUNT: 41
+1st Game Server to Win to 0/15/30	COUNT: 41
+1st Game Total Points	COUNT: 41
+1st Game to Have Break Point	COUNT: 41
+13th Game Score after 2 points	COUNT: 41
+13th Game Score after 3 points	COUNT: 41
+13th Game Score after 4 points	COUNT: 41
+13th Game Server to Win to 0/15	COUNT: 41
+13th Game Server to Win to 0/15/30	COUNT: 41
+13th Game to Have Break Point	COUNT: 41
+14th Game Total Points	COUNT: 41
+1st Half	COUNT: 40
+1st Point Winner 1st Game	COUNT: 40
+Asian Handicap (0-1)	COUNT: 40
+Goal Line (0-1)	COUNT: 40
+Set 2 Winner 3-Way	COUNT: 40
+Correct Score	COUNT: 39
+1st Point Winner 13th Game	COUNT: 39
+14th Game Score after 2 points	COUNT: 38
+14th Game Score after 3 points	COUNT: 38
+14th Game Score after 4 points	COUNT: 38
+14th Game Server to Win to 0/15	COUNT: 38
+14th Game Server to Win to 0/15/30	COUNT: 38
+14th Game to Have Break Point	COUNT: 38
+A Run Scored - TEAM0 Inning 2	COUNT: 37
+Match Winner	COUNT: 36
+16th  Game Winner	COUNT: 36
+2nd Over, TEAM1 - Runs	COUNT: 35
+2nd Over, TEAM1 - Runs Odd/Even	COUNT: 35
+2nd Over, TEAM1 - Wicket	COUNT: 35
+Win and Each Way In-Play	COUNT: 35
+1st Point Winner 14th Game	COUNT: 34
+2nd Game to Deuce	COUNT: 33
+2nd Game Score	COUNT: 33
+19th Game Winner	COUNT: 33
+19th Game to Deuce	COUNT: 33
+19th Game Score	COUNT: 33
+Map 2 - Lines	COUNT: 32
+Correct Map Score - Best of 3	COUNT: 32
+Match - Alt Total Rounds	COUNT: 32
+Match - Alt Rounds Handicap	COUNT: 32
+Set 2 Lead After	COUNT: 32
+Alternative Handicaps	COUNT: 31
+Alternative Game Totals	COUNT: 31
+Match Behinds	COUNT: 31
+Match Scoring Shots	COUNT: 31
+Winning Margin 5-Way Alt 2	COUNT: 31
+Winning Margin 5-Way	COUNT: 31
+Winning Margin 5-Way Alt 1	COUNT: 31
+TriBet	COUNT: 31
+2nd Half Lines	COUNT: 31
+2nd Half Race to	COUNT: 31
+2nd Half Winning Margin 5-Way	COUNT: 31
+2nd Half Winning Margin 9-Way	COUNT: 31
+Match Total 5-Way	COUNT: 31
+Margin (Bands)	COUNT: 31
+Team Total Goals	COUNT: 31
+Team Total Scoring Shots	COUNT: 31
+Team Total Behinds	COUNT: 31
+Total - Odd/Even	COUNT: 31
+Game to End in a Tie	COUNT: 31
+Set 3 Race to	COUNT: 31
+Team Goals (Bands)	COUNT: 30
+Set 2 Lines	COUNT: 30
+Set 2 Extra Points	COUNT: 30
+Total Points 2-Way	COUNT: 29
+Player Total Points	COUNT: 29
+9th Game Score after 2 points	COUNT: 29
+9th Game Score after 3 points	COUNT: 29
+9th Game Score after 4 points	COUNT: 29
+9th Game Server to Win to 0/15	COUNT: 29
+9th Game Server to Win to 0/15/30	COUNT: 29
+9th Game to Have Break Point	COUNT: 29
+15th Game Winner	COUNT: 29
+15th Game to Deuce	COUNT: 29
+15th Game Score	COUNT: 29
+Game 5 Lines	COUNT: 29
+England (dm1trena) Esports Goals	COUNT: 28
+Brazil (hotShot) Esports Goals	COUNT: 28
+Point Betting - 16th  Game	COUNT: 28
+17th Game Winner	COUNT: 28
+17th Game to Deuce	COUNT: 28
+17th Game Score	COUNT: 28
+1st Point Winner 17th Game	COUNT: 28
+17th Game Score after 2 points	COUNT: 28
+17th Game Score after 3 points	COUNT: 28
+17th Game Score after 4 points	COUNT: 28
+17th Game Server to Win to 0/15	COUNT: 28
+17th Game Server to Win to 0/15/30	COUNT: 28
+17th Game Total Points	COUNT: 28
+17th Game to Have Break Point	COUNT: 28
+Match Tie Break - Total Points	COUNT: 28
+Match Tie-Break Score	COUNT: 28
+Match Tie Break Handicap	COUNT: 28
+1st Half Asian Handicap (0-1)	COUNT: 27
+1st Half Goal Line (0-1)	COUNT: 27
+Total Games in Set 3	COUNT: 27
+Set 3 Lead after	COUNT: 27
+Set 3 Score after 6 Games	COUNT: 27
+Set 3 Score	COUNT: 27
+Set 3 Correct Score Group	COUNT: 27
+Set 3 Correct Score Any Player	COUNT: 27
+Set 3 Handicap	COUNT: 27
+Set 3 to Break Serve	COUNT: 27
+France (nikkitta) Esports Goals	COUNT: 26
+Match Markets	COUNT: 26
+Match 180s 	COUNT: 26
+Most 180s in Match	COUNT: 26
+Leg 2 Checkout	COUNT: 26
+16th  Game to Deuce	COUNT: 26
+16th  Game Score	COUNT: 26
+Set 3 Score after 4 Games	COUNT: 26
+Asian Handicap (0-2)	COUNT: 26
+Goal Line (0-2)	COUNT: 26
+5th Goal	COUNT: 24
+Barcelona (Walker) Esports Goals	COUNT: 24
+3rd Quarter Lines	COUNT: 23
+Point Betting - 14th Game	COUNT: 23
+Game 5 Correct Score	COUNT: 23
+Game 5 Extra Points	COUNT: 23
+Game 5 Winning Margin	COUNT: 23
+Netherlands (orlovsky1) Esports Goals	COUNT: 22
+Next 10 Minutes (20:00 - 29:59)	COUNT: 22
+3rd Quarter - Winning Margin	COUNT: 22
+Juventus (Stig) Esports Goals	COUNT: 22
+B.M'Gladbach (Slezaintima) Esports Goals	COUNT: 22
+Borussia Dortmund (Bombi1t0) Esports Goals	COUNT: 21
+15th Game Score after 2 points	COUNT: 21
+15th Game Score after 3 points	COUNT: 21
+15th Game Score after 4 points	COUNT: 21
+15th Game Server to Win to 0/15	COUNT: 21
+15th Game Server to Win to 0/15/30	COUNT: 21
+15th Game Total Points	COUNT: 21
+15th Game to Have Break Point	COUNT: 21
+Bayern (LaikingDast) Esports Goals	COUNT: 21
+Shemyakin Onze (PSG) Esports Goals	COUNT: 20
+Catalonia FC (CFC) Esports Goals	COUNT: 20
+Bayern Munich (Dimqaa) Esports Goals	COUNT: 20
+20th Game Winner	COUNT: 20
+20th Game to Deuce	COUNT: 20
+20th Game Score	COUNT: 20
+19th Game Score after 2 points	COUNT: 19
+19th Game Score after 3 points	COUNT: 19
+19th Game Score after 4 points	COUNT: 19
+19th Game Server to Win to 0/15	COUNT: 19
+19th Game Server to Win to 0/15/30	COUNT: 19
+19th Game Total Points	COUNT: 19
+19th Game to Have Break Point	COUNT: 19
+Leg 1 Checkout	COUNT: 19
+Leg 2 Markets 1	COUNT: 19
+Set 2 End 6 Winner	COUNT: 19
+Point Betting - 19th Game	COUNT: 18
+SAINTPETERSBURG (SPB) Esports Totals	COUNT: 17
+Kolhoz (4M3) Esports Totals	COUNT: 17
+Set 2 End 2 Winner	COUNT: 17
+Set 2 Total Points	COUNT: 17
+3rd Quarter Race to	COUNT: 17
+3rd Quarter Totals	COUNT: 17
+3rd Quarter Goals	COUNT: 17
+3rd Quarter Behinds	COUNT: 17
+3rd Quarter Scoring Shots	COUNT: 17
+3rd Quarter Team Total Scoring Shots	COUNT: 17
+Match Tie Break Score after 6 Points	COUNT: 17
+16th  Goal	COUNT: 17
+20th Game Score after 2 points	COUNT: 17
+20th Game Score after 3 points	COUNT: 17
+20th Game Score after 4 points	COUNT: 17
+20th Game Server to Win to 0/15	COUNT: 17
+20th Game Server to Win to 0/15/30	COUNT: 17
+20th Game Total Points	COUNT: 17
+20th Game to Have Break Point	COUNT: 17
+Liverpool (Unknown) Esports Goals	COUNT: 17
+Point Betting - 18th Game	COUNT: 16
+18th Game Winner	COUNT: 16
+18th Game to Deuce	COUNT: 16
+18th Game Score	COUNT: 16
+Match Tie Break Lead after 6 Points	COUNT: 16
+Set 2 End 7 Winner	COUNT: 16
+Set 2 End 7 Total Points 2-way	COUNT: 16
+Set 2 End 7 Correct Score	COUNT: 16
+Set 2 End 2 Total Points 2-way	COUNT: 15
+Set 2 End 2 Correct Score	COUNT: 15
+1st Point Winner 15th Game	COUNT: 15
+Period 3 Lines	COUNT: 15
+Period 3 Winner 3-Way	COUNT: 15
+Period 3 Double Chance	COUNT: 15
+Set 2 Point Betting	COUNT: 15
+RB Leipzig (DangerDim77) Esports Goals	COUNT: 15
+Set 4 Lines	COUNT: 14
+Set 4 Point Betting	COUNT: 14
+Set 4 Extra Points	COUNT: 14
+Set 4 Winning Margin	COUNT: 14
+Set 4 Correct Score	COUNT: 14
+Map 2 - To Go to Overtime	COUNT: 14
+Set 2 End 1 Winner	COUNT: 14
+Period 2 Lines	COUNT: 14
+Period 2 Winner 3-Way	COUNT: 14
+Period 2 Double Chance	COUNT: 14
+Leg 1 Winner	COUNT: 14
+26th Score	COUNT: 14
+Game 5 Race to	COUNT: 13
+7th Over, TEAM1 - Runs	COUNT: 13
+7th Over, TEAM1 - Runs Odd/Even	COUNT: 13
+7th Over, TEAM1 - Wicket	COUNT: 13
+Set 1 Winner 3-Way	COUNT: 12
+Set 1 End 6 Winner	COUNT: 12
+Map 2 - Total Rounds Odd/Even	COUNT: 12
+Match - Rounds	COUNT: 12
+Match - Team Total Rounds	COUNT: 12
+1st Point Winner 19th Game	COUNT: 12
+Match Goals (Bands)	COUNT: 12
+Leg 8 Checkout	COUNT: 11
+Match - Odd / Even	COUNT: 11
+17th Goal	COUNT: 11
+Asian Handicap (5-11)	COUNT: 11
+Goal Line (5-11)	COUNT: 11
+Map 2 - Winner	COUNT: 11
+Map 3 - Winner	COUNT: 11
+Map 3 - Kills	COUNT: 11
+Map 3 - Towers	COUNT: 11
+Map 3 - Barons	COUNT: 11
+Map 3 - Dragons	COUNT: 11
+Map 3 - Inhibitors	COUNT: 11
+Map 3 - Race to # Kills	COUNT: 11
+Map 3 - Most Kills	COUNT: 11
+Correct Map Score - Best of 5	COUNT: 11
+To Win at Least 1 Map	COUNT: 11
+Bayer Leverkusen (Hrusch) Esports Goals	COUNT: 11
+Set 1 Tie Break Winner	COUNT: 10
+Set 1 Tie Break - First Mini-Break	COUNT: 10
+Set 1 Tie Break - Total Points	COUNT: 10
+Set 1 Tie Break Lead after 6 Points	COUNT: 10
+Set 1 Tie Break Score after 6 Points	COUNT: 10
+Set 1 Tie Break Score	COUNT: 10
+Set 1 Tie Break Handicap	COUNT: 10
+1st Point Winner 20th Game	COUNT: 10
+MGN Magnitude (MGN) Esports Totals	COUNT: 10
+I Love You (ILY) Esports Totals	COUNT: 10
+Point Betting - 15th Game	COUNT: 10
+Set 4 Race to	COUNT: 9
+1st Over, TEAM1 - Runs	COUNT: 9
+1st Over, TEAM1 - Runs Odd/Even	COUNT: 9
+1st Over, TEAM1 - Wicket	COUNT: 9
+PSG (Sima) Esports Goals	COUNT: 9
+Next 10 Minutes (60:00 - 69:59)	COUNT: 9
+10th Goal	COUNT: 9
+1st Point Winner 16th  Game	COUNT: 9
+16th  Game Score after 2 points	COUNT: 9
+16th  Game Score after 3 points	COUNT: 9
+16th  Game Score after 4 points	COUNT: 9
+16th  Game Server to Win to 0/15	COUNT: 9
+16th  Game Server to Win to 0/15/30	COUNT: 9
+16th  Game Total Points	COUNT: 9
+16th  Game to Have Break Point	COUNT: 9
+Italy (white_boy1927) Esports Goals	COUNT: 8
+Set 1 End 7 Winner	COUNT: 8
+Set 1 End 7 Total Points 2-way	COUNT: 8
+Set 1 End 7 Correct Score	COUNT: 8
+11th Goal	COUNT: 8
+21st Score	COUNT: 8
+Game 5 Lead After	COUNT: 8
+7th Goal	COUNT: 8
+4th Quarter Goalscorers	COUNT: 8
+Asian Handicap (0-3)	COUNT: 7
+Goal Line (0-3)	COUNT: 7
+Leg 7 Checkout	COUNT: 7
+Leg 8 Markets 1	COUNT: 7
+Period 1 Lines	COUNT: 7
+Period 1 Winner 3-Way	COUNT: 7
+Period 1 Double Chance	COUNT: 7
+Map 2 - Race to	COUNT: 7
+Map 2 - Alt Rounds Handicap	COUNT: 7
+Map 2 - Alt Total Rounds	COUNT: 7
+Map 2 - Correct Round Score	COUNT: 7
+Asian Handicap (1-2)	COUNT: 7
+Goal Line (1-2)	COUNT: 7
+Map 2 - Round 30 - Lines	COUNT: 7
+Leg 2 Winner	COUNT: 7
+Leg 3 Markets 1	COUNT: 7
+Leg 3 Checkout	COUNT: 7
+Set 2 End 6 Total Points 2-way	COUNT: 7
+Set 2 End 6 Correct Score	COUNT: 7
+Both Teams To Score 58 Points	COUNT: 7
+4th Quarter Scoring Shots	COUNT: 7
+JAR Harris  Innings Runs	COUNT: 7
+JA Simpson  Innings Runs	COUNT: 7
+Runs at Fall of 7th Wicket	COUNT: 7
+56th Over, TEAM1 2nd Inns - Runs	COUNT: 7
+56th Over, TEAM1 2nd Inns - Wicket	COUNT: 7
+22nd Goal	COUNT: 6
+Map 2 - Round 24 - Lines	COUNT: 6
+Set 5 Lines	COUNT: 6
+Set 5 Race to	COUNT: 6
+Set 5 Lead After	COUNT: 6
+Set 5 Extra Points	COUNT: 6
+Set 5 Winning Margin	COUNT: 6
+Set 5 Correct Score	COUNT: 6
+20th Score	COUNT: 6
+5th Over, TEAM1 - Runs	COUNT: 6
+5th Over, TEAM1 - Runs Odd/Even	COUNT: 6
+5th Over, TEAM1 - Wicket	COUNT: 6
+Map 2 - Round 37 - Lines	COUNT: 6
+4th Quarter - Score 1st and Win	COUNT: 6
+4th Quarter Lines	COUNT: 6
+4th Quarter - First Scoring Play	COUNT: 6
+4th Quarter - First Goal	COUNT: 6
+4th Quarter Race to	COUNT: 6
+4th Quarter Totals	COUNT: 6
+4th Quarter Goals	COUNT: 6
+4th Quarter Behinds	COUNT: 6
+4th Quarter Team Total Scoring Shots	COUNT: 6
+Point Betting - 20th Game	COUNT: 6
+Set 5 Point Betting	COUNT: 5
+23rd Goal	COUNT: 5
+Both Teams To Score 53 Points	COUNT: 5
+Match Tie-Break Winner	COUNT: 5
+4th Over, TEAM1 - Runs	COUNT: 5
+4th Over, TEAM1 - Runs Odd/Even	COUNT: 5
+4th Over, TEAM1 - Wicket	COUNT: 5
+RM Yates  Innings Runs	COUNT: 5
+WMH Rhodes  Innings Runs	COUNT: 5
+Runs at Fall of 1st Wicket	COUNT: 5
+1st Over, TEAM1 2nd Inns - Runs	COUNT: 5
+1st Over, TEAM1 2nd Inns - Wicket	COUNT: 5
+Set 1 End 6 Total Points 2-way	COUNT: 4
+Set 1 End 6 Correct Score	COUNT: 4
+Leg 9 Markets 1	COUNT: 4
+Leg 9 Checkout	COUNT: 4
+1st Point Winner 2nd Game	COUNT: 4
+2nd Game Total Points	COUNT: 4
+Map 2 - Round 29 - Lines	COUNT: 4
+Both Teams To Score 52 Points	COUNT: 4
+Both Teams To Score 60 Points	COUNT: 4
+8th Goal	COUNT: 4
+9th Goal	COUNT: 4
+Map 3 - Lines	COUNT: 4
+Map 3 - Round 1 - Lines	COUNT: 4
+Map 3 - Round 2 - Lines	COUNT: 4
+Map 3 - 1st Half	COUNT: 4
+Map 3 - 1st Half - Alt Rounds Handicap	COUNT: 4
+Map 3 - 1st Half - Correct Round Score	COUNT: 4
+Map 3 - Race to	COUNT: 4
+Map 3 - Alt Rounds Handicap	COUNT: 4
+Map 3 - Alt Total Rounds	COUNT: 4
+Map 3 - Correct Round Score	COUNT: 4
+Map 3 - Round 16 - Lines	COUNT: 4
+Map 3 - To Go to Overtime	COUNT: 4
+Map 3 - Total Rounds Odd/Even	COUNT: 4
+Set 3 Lines	COUNT: 4
+Set 3 Lead After	COUNT: 4
+Set 3 Extra Points	COUNT: 4
+Set 3 Winning Margin	COUNT: 4
+Set 3 Correct Score	COUNT: 4
+18th Score	COUNT: 3
+3rd Quarter Goalscorers	COUNT: 3
+3rd Quarter - Score 1st and Win	COUNT: 3
+3rd Quarter - First Scoring Play	COUNT: 3
+3rd Quarter - First Goal	COUNT: 3
+2nd Half Totals	COUNT: 3
+2nd Half Goals	COUNT: 3
+Both Teams To Score 46 Points	COUNT: 3
+Map 2 - Kills	COUNT: 3
+Map 2 - Towers	COUNT: 3
+Map 2 - Barons	COUNT: 3
+Map 2 - Dragons	COUNT: 3
+Map 2 - Inhibitors	COUNT: 3
+Map 2 - Race to # Kills	COUNT: 3
+Map 2 - Most Kills	COUNT: 3
+Asian Handicap (5-10)	COUNT: 3
+Goal Line (5-10)	COUNT: 3
+Map 2 - Round 28 - Lines	COUNT: 3
+Both Teams To Score 54 Points	COUNT: 3
+Map 2 - Round 38 - Lines	COUNT: 3
+Match - Alternative Handicap	COUNT: 3
+Win In-Play	COUNT: 3
+21st Game Winner	COUNT: 3
+21st Game to Deuce	COUNT: 3
+21st Game Score	COUNT: 3
+21st Game Score after 2 points	COUNT: 3
+21st Game Score after 3 points	COUNT: 3
+21st Game Score after 4 points	COUNT: 3
+21st Game Server to Win to 0/15	COUNT: 3
+21st Game Server to Win to 0/15/30	COUNT: 3
+21st Game Total Points	COUNT: 3
+21st Game to Have Break Point	COUNT: 3
+Asian Handicap (2-0)	COUNT: 2
+Goal Line (2-0)	COUNT: 2
+2nd Game Score after 2 points	COUNT: 2
+2nd Game Score after 3 points	COUNT: 2
+2nd Game Score after 4 points	COUNT: 2
+2nd Game Server to Win to 0/15	COUNT: 2
+2nd Game Server to Win to 0/15/30	COUNT: 2
+2nd Game to Have Break Point	COUNT: 2
+Map 2 - Round 32 - Lines	COUNT: 2
+Set 1 End 5 Winner	COUNT: 2
+Asian Handicap (2-1)	COUNT: 2
+Goal Line (2-1)	COUNT: 2
+Leg 8 Winner	COUNT: 2
+Both Teams To Score 51 Points	COUNT: 2
+Set 2 End 3 Winner	COUNT: 2
+Set 2 End 3 Total Points 2-way	COUNT: 2
+Set 2 End 5 Winner	COUNT: 2
+Both Teams To Score 59 Points	COUNT: 2
+15th Goal	COUNT: 1
+Asian Handicap (4-10)	COUNT: 1
+Goal Line (4-10)	COUNT: 1
+Point Betting - 17th Game	COUNT: 1
+Map 2 - Round 25 - Lines	COUNT: 1
+1st Point Winner 18th Game	COUNT: 1
+18th Game Score after 2 points	COUNT: 1
+18th Game Score after 3 points	COUNT: 1
+18th Game Score after 4 points	COUNT: 1
+18th Game Server to Win to 0/15	COUNT: 1
+18th Game Server to Win to 0/15/30	COUNT: 1
+18th Game Total Points	COUNT: 1
+18th Game to Have Break Point	COUNT: 1
+Set 2 End 3 Correct Score	COUNT: 1
+1st Point Winner 21st Game	COUNT: 1
+Both Teams To Score 57 Points	COUNT: 1

@@ -1,4 +1,5 @@
 const axios = require("axios"),
+  config = require("../../config"),
   errorHandler = require("../../errorHandler");
 
 const client = axios.create({
@@ -12,7 +13,7 @@ const client = axios.create({
 var convertOdd = (value) => Number(eval(value) + 1).toFixed(2);
 
 var parseTeams = (name) =>
-  name.split(/(\b v \b)|(\b vs \b)|(\b @ \b)|(\b & \b)/gm).filter((i) => {
+  name.split(/(\b v \b)|(\b vs \b)|(\b @ \b)/gm).filter((i) => {
     if (i != null && i != " v " && i != " vs " && i != " @ " && i != " & ")
       return i;
   });
@@ -44,7 +45,7 @@ module.exports = class {
     this.events = [];
   }
 
-  async worker() {
+  async worker(callback) {
     setInterval(async () => {
       let updatedEvents = await this.getInplayEvents();
       let { start, end } = await inplayChecker(
@@ -58,16 +59,19 @@ module.exports = class {
       this.events = updatedEvents;
 
       start.forEach((item) =>
-        this.updateEventOdds(this.events.find((i) => i.ID == item))
+        this.updateEventOdds(
+          this.events.find((i) => i.ID == item),
+          callback
+        )
       );
     }, 60000);
   }
 
-  async updateEventOdds(event) {
+  async updateEventOdds(event, callback) {
     let interval = setInterval(async () => {
       let eventInArray = this.events[this.events.indexOf(event)];
       if (eventInArray == null || eventInArray == undefined) {
-        this.io.sockets.in("default").emit("Bet365Cancel", event.ID);
+        callback("Bet365", "Close", event.ID);
         clearInterval(interval);
         return;
       }
@@ -76,9 +80,17 @@ module.exports = class {
       if (JSON.stringify(eventInArray.OD) != JSON.stringify(updatedOdds)) {
         try {
           this.events[this.events.indexOf(eventInArray)].OD = updatedOdds;
-          this.io.sockets
-            .in("default")
-            .emit("Bet365Event", JSON.stringify(eventInArray));
+          if (
+            config.ACCEPTED_SPORTS.includes(
+              this.events[this.events.indexOf(eventInArray)].SP
+            )
+          ) {
+            callback(
+              "Bet365",
+              "Event",
+              this.events[this.events.indexOf(eventInArray)]
+            );
+          }
         } catch (err) {
           errorHandler.rest(err);
         }
